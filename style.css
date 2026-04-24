@@ -61,7 +61,7 @@
     align-items: flex-end;
     padding: 0 3rem 5rem;
     background: var(--light);
-    background-image: url('../img/hero-bg.jpg');
+    background-image: url('/img/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
